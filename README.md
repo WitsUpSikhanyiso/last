@@ -1,9 +1,9 @@
 # Tutor_Tracker
 Tutor_Tracker Project
 
-[![Build Status](https://travis-ci.org/MKLThabo/Tutor_Tracker.svg?branch=master)](https://travis-ci.org/MKLThabo/Tutor_Tracker)
+[![Build Status](https://travis-ci.org/witupsikhanyiso/last.svg?branch=master)](https://travis-ci.org/witsupsikhanyiso/last)
 
-[![Coverage Status](https://coveralls.io/repos/github/MKLThabo/Tutor_Tracker/badge.svg?branch=master)](https://coveralls.io/github/MKLThabo/Tutor_Tracker?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/witsupsikhanyiso/last/badge.svg?branch=master)](https://coveralls.io/github/witsupsikhanyiso/last?branch=master)
 
 tutortracker
 ==============
